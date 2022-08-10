@@ -2,4 +2,16 @@ helloooooo
 line 2 hi
 line 3 moi
 line 4
+<<<<<<< 45fe937526735734e58b48e1afaa4e48d652ac4d
+<<<<<<< 45fe937526735734e58b48e1afaa4e48d652ac4d
 line 5
+line 6
+=======
+line 51 hei
+line 6
+line 7
+>>>>>>> line 5 edit
+=======
+line 5 hei
+line 6
+>>>>>>> edit line 5
